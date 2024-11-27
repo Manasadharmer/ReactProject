@@ -1,0 +1,22 @@
+{
+  "medicines": [
+    {
+      "id": "1728970704021",
+      "name": "kjjo",
+      "quantity": 1,
+      "expiryDate": "2024-10-15"
+    },
+    {
+      "id": 1732689669828,
+      "name": "rr",
+      "quantity": 44,
+      "expiryDate": "2024-11-27"
+    },
+    {
+      "id": 1732689999302,
+      "name": "r",
+      "quantity": 1,
+      "expiryDate": "2024-11-27"
+    }
+  ]
+}
